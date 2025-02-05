@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20231025T110000Z
+LOCATION:Microsoft Teams
+ORGANIZER;CN=mailto:alan@francke-iot.com:mailto:mailto:alan@francke-iot.com
+DTSTART:20231025T100000Z
+SUMMARY:Meeting with Bob
+UID:5fb5bb68-f64b-4054-bd64-6db4a05af472@5fb5.org
+END:VEVENT
+END:VCALENDAR

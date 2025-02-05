@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:asdf
+DTEND:20250205T203000Z
+LOCATION:Microsoft Teams
+ORGANIZER;CN=Alan Francke:mailto:alan@francke-iot.com:mailto:Alan Francke:mailto:alan@francke-iot.com
+DTSTART:20250205T201000Z
+SUMMARY:Test Meeting
+UID:0f9636e8-4f2f-4698-82ff-592f6fa3c441@0f96.org
+END:VEVENT
+END:VCALENDAR
